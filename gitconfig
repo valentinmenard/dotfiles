@@ -48,3 +48,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = valentin.menard@essec.edu
+	name = Valentin Menard
